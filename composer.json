@@ -1,5 +1,5 @@
 {
-    "name": "lecturize/laravel-addresses",
+    "name": "mpjhorner/laravel-addresses",
     "description": "Simple address and contact management for Laravel.",
     "homepage": "https://github.com/Lecturize/Laravel-Addresses",
     "license": "MIT",
@@ -21,7 +21,7 @@
         "php": "^7.3|^8.0",
         "illuminate/support": "^6.0|^7.0|^8.0",
         "illuminate/database": "^6.0|^7.0|^8.0",
-        "webpatser/laravel-countries": "^1.5",
+        "mpjhorner/laravel-countries": "dev-patch-1",
         "webpatser/laravel-uuid": "^3.0|^4.0",
         "ext-json": "*"
     },
