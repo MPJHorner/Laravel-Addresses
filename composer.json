@@ -65,5 +65,11 @@
     "support": {
         "source": "https://github.com/Lecturize/Laravel-Addresses",
         "issues": "https://github.com/Lecturize/Laravel-Addresses/issues"
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/mpjhorner/laravel-countries.git"
+        },
+    ]
 }
